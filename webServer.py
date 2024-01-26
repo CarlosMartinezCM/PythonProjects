@@ -1,4 +1,5 @@
-# Python 3 Web server example 
+# Web server implementation 
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import cgi
 
