@@ -1,4 +1,4 @@
-# Implementation of the matrix screen, 1s and 0s
+# Implementation of the matrix screen, 1s and 0s using the pygame module
 
 import pygame
 import sys
